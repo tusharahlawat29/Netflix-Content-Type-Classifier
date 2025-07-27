@@ -97,8 +97,8 @@ The Netflix dataset used in this project contains information about movies and T
 ## Author
 
 Tushar Ahlawat  
-Email: tusharahlawat161@example.com  
-LinkedIn: [linkedin.com/in/tusharahlawat](www.linkedin.com/in/tushar-ahlawat-26b555268)  
+Email: tusharahlawat161@gmail.com  
+LinkedIn: [Tushar Ahlawat](https://www.linkedin.com/in/tushar-ahlawat-26b555268)   
 
 
 ---
