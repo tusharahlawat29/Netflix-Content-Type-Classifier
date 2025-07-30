@@ -60,25 +60,6 @@ Streaming platforms like Netflix host vast libraries of content. This project us
 
 ---
 
-## How to Use
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/netflix-content-type-classifier.git
-    ```
-
-2. Install required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter notebook:
-    ```bash
-    jupyter notebook netflix_EDA.ipynb
-    ```
-
----
-
 ## Dataset
 
 The Netflix dataset used in this project contains information about movies and TV shows available on Netflix, including metadata like director, cast, country, rating, and more.
